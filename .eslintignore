@@ -1,0 +1,5 @@
+.nuxt
+.output
+supabase
+node_modules
+types/database.ts
